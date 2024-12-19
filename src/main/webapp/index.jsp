@@ -15,5 +15,7 @@
 <h1 style="font-weight: bold; color: purplr; font-size: 30px; text-align: center;">
     Automation is now working in full swing!
 </h1>
+<h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
+    Suneel didn't make the correct code available in git for Lesson Day 20!
 </body>
 </html>
