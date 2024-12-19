@@ -12,5 +12,8 @@
 <h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
     I have successfully completed Jenkins Freestyle Deployment!
 </h1>
+<h1 style="font-weight: bold; color: purplr; font-size: 30px; text-align: center;">
+    Automation is now working in full swing!
+</h1>
 </body>
 </html>
